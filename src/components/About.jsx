@@ -6,6 +6,7 @@ const paragraphStyle = {
   fontSize: "16px",
   margin: "1rem 5rem",
   padding: "1rem",
+  textAlign: "justify",
 };
 
 export class About extends Component {

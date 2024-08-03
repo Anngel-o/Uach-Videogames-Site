@@ -6,6 +6,7 @@ const paragraphStyle = {
   fontSize: "16px",
   margin: "1rem 8.75rem",
   padding: "1rem",
+  textAlign: "justify",
 };
 
 export class Community extends Component {
